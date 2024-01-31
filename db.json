@@ -4,31 +4,31 @@
       "id": 1,
       "question": "¿Cuál es el nombre del planeta natal de Luke Skywalker?",
       "alternatives": ["Tatooine", "Coruscant", "Endor", "Hoth"],
-      "respuesta": 0
+      "answer": 0
     },
     {
       "id": 2,
       "question": "¿Quién mató a Jabba the Hutt?",
       "alternatives": ["Han Solo", "Princesa Leia", "Luke Skywalker", "Boba Fett"],
-      "respuesta": 1
+      "answer": 1
     },
     {
       "id": 3,
       "question": "¿Cuál es el apellido de la princesa Leia?",
       "alternatives": ["Organa", "Skywalker", "Solo", "Kenobi"],
-      "respuesta": 0
+      "answer": 0
     },
     {
       "id": 4,
       "question": "¿Cómo se llama el mentor Jedi de Anakin Skywalker?",
       "alternatives": ["Obi-Wan Kenobi", "Mace Windu", "Qui-Gon Jinn", "Yoda"],
-      "respuesta": 2
+      "answer": 2
     },
     {
       "id": 5,
       "question": "¿Quién es el padre de Luke Skywalker?",
       "alternatives": ["Darth Vader", "Han Solo", "Obi-Wan Kenobi", "Emperor Palpatine"],
-      "respuesta": 0
+      "answer": 0
     }
   ]
 }
