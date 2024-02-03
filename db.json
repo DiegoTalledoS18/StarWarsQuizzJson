@@ -22,7 +22,7 @@
       "id": 4,
       "question": "¿Cómo se llama el mentor Jedi de Anakin Skywalker?",
       "alternatives": ["Obi-Wan Kenobi", "Mace Windu", "Qui-Gon Jinn", "Yoda"],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 5,
