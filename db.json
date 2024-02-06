@@ -27,7 +27,7 @@
     {
       "id": 5,
       "question": "¿Quién es el padre de Luke Skywalker?",
-      "alternatives": ["Darth Vader", "Han Solo", "Obi-Wan Kenobi", "Emperor Palpatine"],
+      "alternatives": ["Darth Vader", "Han Solo", "Obi-Wan Kenobi", "Emperador Palpatine"],
       "answer": 0
     }
   ]
