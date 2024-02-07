@@ -8,8 +8,8 @@
     },
     {
       "id": 2,
-      "question": "¿Quién mató a Jabba the Hutt?",
-      "alternatives": ["Han Solo", "Princesa Leia", "Luke Skywalker", "Boba Fett"],
+      "question": "Dónde comenzaron las Guerras Clon?",
+      "alternatives": ["Tatooine", "Geonosis", "Naboo", "Coruscant"],
       "answer": 1
     },
     {
@@ -26,8 +26,14 @@
     },
     {
       "id": 5,
-      "question": "¿Quién es el padre de Luke Skywalker?",
-      "alternatives": ["Darth Vader", "Han Solo", "Obi-Wan Kenobi", "Emperador Palpatine"],
+      "question": "¿Cuál es la especie de Chewbacca?",
+      "alternatives": ["Trandoshano", "Wookiee", "Ewok", "Gato"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál es el gato mas lloron?",
+      "alternatives": ["Kitisia", "QUI-TEM", "Chimba", "Perlita"],
       "answer": 0
     }
   ]
